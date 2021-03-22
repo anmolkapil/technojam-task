@@ -13,4 +13,5 @@ Dependencies used: Express, Body Parser, Mongoose
 2. Install MongoDB 
 
 ## Screenshots
-
+<img src="https://github.com/anmolkapil/technojam-task/blob/main/task_9/images/todolist.png" width="500">
+<img src="https://github.com/anmolkapil/technojam-task/blob/main/task_9/images/todolist1.png" width="500">
