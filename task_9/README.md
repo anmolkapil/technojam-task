@@ -14,4 +14,4 @@ Dependencies used: Express, Body Parser, Mongoose
 
 ## Screenshots
 <img src="https://github.com/anmolkapil/technojam-task/blob/main/task_9/images/todolist.png" width="500">
-<img src="https://github.com/anmolkapil/technojam-task/blob/main/task_9/images/todolist1.png" width="500">
+<img src="https://github.com/anmolkapil/technojam-task/blob/main/task_9/images/todolist2.png" width="500">
