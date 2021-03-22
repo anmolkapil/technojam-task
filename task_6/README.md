@@ -16,7 +16,7 @@ I was using homebrew python and it does not come with [Tcl/Tk](https://www.tcl.t
 
 ## Email Validator with tkinter
 
-<img src="https://github.com/anmolkapil/technojam-task/blob/main/task_6/images/Application.png" width="100">
+<img src="https://github.com/anmolkapil/technojam-task/blob/main/task_6/images/Application.png" width="300">
 
 ## **How to use?**
 
@@ -29,7 +29,7 @@ Done! 👍🏻
 
 ## Screenshots
 
-![](/Users/anmolkapil/Desktop/Screenshot 2021-03-22 at 10.01.27 AM.png)
+<img src="https://github.com/anmolkapil/technojam-task/blob/main/task_6/images/Valid.png" width="300">
 
-![](/Users/anmolkapil/Desktop/Screenshot 2021-03-22 at 10.01.49 AM.png)
+<img src="https://github.com/anmolkapil/technojam-task/blob/main/task_6/images/Invalid.png" width="300">
 
