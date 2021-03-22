@@ -12,7 +12,7 @@ I had never used the tkinter library before. But I am proficient in Python. So I
 
 <u>I only faced one difficulty while doing this task.</u>
 
-I was using homebrew python and it does not come with [Tcl/Tk](https://www.tcl.tk) dependency required by Tkinter. The deafult system version is used instead which is depricated. So I had to use official macOS python installer. (which I really hate using 🥺)
+I was using homebrew python and it does not come with [Tcl/Tk](https://www.tcl.tk) dependency required by Tkinter. The default system version is used instead which is depricated. So I had to use official macOS python installer. (which I really hate using 🥺)
 
 ## Email Validator with tkinter
 
