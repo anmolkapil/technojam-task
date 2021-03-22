@@ -34,11 +34,3 @@ button1 = tk.Button(text='Check', command=check, fg='blue')
 canvas1.create_window(200, 180, window=button1)
 
 emailValidator.mainloop()
-
-
-
-
-
-
-  
-
