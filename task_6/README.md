@@ -16,7 +16,7 @@ I was using homebrew python and it does not come with [Tcl/Tk](https://www.tcl.t
 
 ## Email Validator with tkinter
 
-![](/Users/anmolkapil/Desktop/Screenshot 2021-03-22 at 2.30.55 AM.png)
+![](/images/Application.png)
 
 ## **How to use?**
 
