@@ -20,7 +20,7 @@ I was using homebrew python and it does not come with [Tcl/Tk](https://www.tcl.t
 
 ## **How to use?**
 
-1. Type your enter in the box.
+1. Type your Email in the box.
 2. Click on Button saying "Check".
 
 Done! 👍🏻
